@@ -11,9 +11,9 @@
 - Innovated clinical decision-making tools through statistical analysis, pinpointing key features in patient data.
 #### [Milk Classification🥛](https://github.com/Eden33333/Milk-Analysis) **Statistical Analysis & Machine Learning | Python(Pandas;xgboost;Scipy-learn)**
 - Optimized machine learning models to predict milk quality, achieving 100% accuracy
-#### [Python Package for Candian career recommendations](https://github.com/Data533-Group-3/Project) **Python Package | SQLite | GIthub**
+#### [Python Package for supermarket management system](https://github.com/Data533-Group-3/Project) **Python Package | SQLite | GIthub**
 - Designed a supermarket management system utilizing an SQLite database, enabling both customer-facing and manager-facing interactions, to assist with inventory management
-#### [R Package for supermarket management system](https://github.com/Eden33333/canwage) **Visualization | Statistical Analysis | R(ggplot2)**
+#### [R Package for Candian career recommendations](https://github.com/Eden33333/canwage) **Visualization | Statistical Analysis | R(ggplot2)**
 - Wrangled Wage Data with an API from the Canadian Government, visualized and conducted statistic analysis on wage distribution across occupations and industries, giving career choice recommendations
 
 
